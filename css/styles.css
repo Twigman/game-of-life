@@ -1,0 +1,20 @@
+#game {
+    border: 1px solid #000000;
+}
+
+#wrapper {
+    width: fit-content;
+    height: auto;
+}
+
+#canvas_wrapper {
+    height: auto;
+}
+
+.float_box_left {
+    float: left;
+}
+
+.float_box_right {
+    float: right;
+}
