@@ -1,3 +1,3 @@
-Implementation: https://qwyt.de/game-of-life<br />
+Implementation: https://qwyt.de/game-of-life/<br />
 <br />
-Tested with Firefox
+Tested with Firefox and Chrome
